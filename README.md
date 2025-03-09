@@ -1,4 +1,4 @@
-# Retail_Store_Analysis_using-_SQL
+# ETL-Driven Retail Analytics
 Data Modeling for a Retail Store to Understand Consumer Behavior
 Problem Statement
 Retail businesses generate vast amounts of transaction data daily. However, without proper analysis, this data remains underutilized. The goal of this project is to model and analyze retail data to understand customer behavior, sales trends, and store performance. By leveraging SQL for ETL (Extract, Transform, Load) and analysis, we aim to provide insights into customer preferences, shopping patterns, and high-performing locations to help in data-driven decision-making.
