@@ -35,7 +35,7 @@ The dataset includes information on:
 - **Joins (`INNER JOIN`, `LEFT JOIN`)** to connect customers, transactions, and stores
 - **Conditional Columns (`CASE WHEN`)** to classify transactions
 - **Filtering (`WHERE`, `HAVING`)** for targeted insights
-- **Grouping & Sorting ('Group By' , `ORDER BY`)** to group & rank performance metrics
+- **Grouping & Sorting (`Group By` , `ORDER BY`)** to group & rank performance metrics
 
 ## 🔍 Key Insights Generated
 ### 🔹 Customer Insights
