@@ -38,7 +38,7 @@ The dataset includes information on:
 - **State-wise Customer Distribution:** Determines demand by geography
 - **Transactions by Men & Women:** Analyzes gender-based shopping patterns
 
-### 🔹 Sales & Performance Analysis
+### 🔹 Sales Revenew & Performance Analysis
 - **City with the Highest Number of Orders:** Helps optimize store expansion
 - **Area with the Highest Sales:** Determines high-revenue locations
 - **Top-selling Products & Categories:** Guides inventory planning
