@@ -32,25 +32,70 @@ The dataset includes information on:
 - **Grouping & Sorting (`Group By` , `ORDER BY`)** to group & rank performance metrics
 
 ## 🔍 Key Insights Generated
-### 🔹 Customer Insights
-- **Number of Transactions by Gender:** Helps understand purchasing behavior
-- **Loyalty Analysis:** Identifying customers purchasing from multiple stores
-- **State-wise Customer Distribution:** Determines demand by geography
-- **Transactions by Men & Women:** Analyzes gender-based shopping patterns
 
-### 🔹 Sales Revenew & Performance Analysis
-- **City with the Highest Number of Orders:** Helps optimize store expansion
-- **Area with the Highest Sales:** Determines high-revenue locations
-- **Top-selling Products & Categories:** Guides inventory planning
-- **Customer segmentation:** Segments customers into loyalty tiers based on purchase frequency
+- **Gender Distribution**:  
+  - Male customers: **358 transactions**  
+  - Female customers: **192 transactions**  
+  ➤ Indicates a stronger male customer base.
 
-## 📊 Business Impact & Benefits
-- **✅Improved Inventory Management:** Stores can optimize stock levels based on demand patterns.
-- **✅Personalized Marketing:** Gender-based and location-based insights help in targeted promotions.
-- **✅Operational Efficiency:** Identifying high-performing stores and streamlining underperforming ones.
-- **✅Revenue Growth:** Data-driven decision-making leads to better pricing and sales strategies.
-- **✅Better Customer Retention:** Loyalty segmentation helps tailor reward programs for high-value customers.
+- **Loyalty Pattern**:  
+  - **101 customers** purchased from **more than one store**  
+  ➤ Ideal segment for loyalty program targeting.
 
+- **Regional Focus**:  
+  - **Karnataka** had the highest customer base with **97 customers**  
+  ➤ Prime focus region for customer-centric campaigns.
+
+---
+
+### 🏬 Store & Regional Sales
+
+- **Top Performing Region**:  
+  - **Bengaluru**: **275 orders**  
+  - **Indiranagar**: Top area by sales – **₹1.12 Lakhs**  
+  - Followed by **Andheri** in Mumbai.
+
+- **Key Revenue Contributors**:
+  - Jayanagar  
+  - Marathahalli  
+  - Koramangala
+
+---
+
+### 📦 Product Performance
+
+- **Top-Selling Products (by Quantity)**:
+  - Nilgiris Premium Fried Gram - Split: **89 units**
+  - Chana Dal: **71 units**
+  - Marie Gold Biscuits: **64 units**
+
+- **Top Revenue-Generating Products**:
+  - Avocado: **₹25,650**
+  - Asparagus: **₹17,625**
+  - Kolam Rice: **₹14,260**
+  ➤ High ROI despite lower volume sales
+
+- **Consumer Preferences**:
+  - Personal care items like **Nivea** and **Garnier face washes** ranked high in both **volume** and **revenue**  
+  ➤ Strong and consistent consumer demand
+
+---
+
+## 🎯 Business Impact
+
+- 💡 **Inventory Optimization**:  
+  Identified fast-moving and high-margin products to enable data-driven inventory planning.
+
+- 📍 **Strategic Expansion**:  
+  Pinpointed high-performing stores and regions to guide investment and expansion decisions.
+
+- 🧠 **Loyalty Program Design**:  
+  Cluster analysis of customer behavior supported personalized loyalty strategies.
+
+- 📈 **Targeted Marketing**:  
+  Insights into gender and region preferences enabled better-targeted marketing, improving customer engagement and conversion rates.
+
+---
 
 ## 🚀 Getting Started
 1. Clone this repository
